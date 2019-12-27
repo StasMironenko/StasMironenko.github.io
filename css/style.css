@@ -656,6 +656,7 @@ div.logo5{
 	.socialnetworks > .col-md > a {
 	position: relative;
 	top:42px;
+	left:23px;
 	padding:2px;
 	}
 	.socialnetworks > .col-md > a > img:hover {
