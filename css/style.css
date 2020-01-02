@@ -267,6 +267,7 @@ div.logo2{
 }
 .animationcard{
     position:relative;
+    left:5px;	
 }
 .animimage:hover .img-fluid{
 	border:3px solid #1b1b36;
