@@ -385,44 +385,44 @@ position: relative;
 .personalcard1 img {
  	position:relative;
  	left:-0.1vw;
- 	top:3.7vw;
+ 	top:47px;
 }
 .personalcard2 img {
 	position:relative;
 	left:-0.1vw;
-	top:3.7vw;
+	top:47px;
  }
  .personalcard3 img {
 	position:relative;
 	left:-0.1vw;
-	top:3.7vw;
+	top:47px;
  }
  .personalcard4 img {
 	position:relative;
 	left:-0.1vw;
-	top:3.7vw;
+        top:47px;
  }
 .personalcard1 > a {
 	position:relative;
-	bottom:4vw;
+        bottom:5vh;
 	left:18px;
 	float:left;
 }
 .personalcard2 > a {
 	position:relative;
-	bottom:4vw;
+	bottom:5vh;
 	left:18px;
 	float:left;
 }
 .personalcard3 > a {
 	position:relative;
-	bottom:4vw;
+	bottom:5vh;
 	left:18px;
 	float:left;
 }
 .personalcard4 > a {
 	position:relative;
-	bottom:4vw;
+	bottom:5vh;
 	left:18px;
 	float:left;
 }
