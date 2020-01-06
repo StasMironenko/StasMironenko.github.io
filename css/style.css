@@ -267,7 +267,6 @@ div.logo2{
 }
 .animationcard{
     position:relative;
-    left:14px;	
     display: flex;
     justify-content: center;
 }
