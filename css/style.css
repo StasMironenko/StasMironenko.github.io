@@ -354,18 +354,21 @@ div.logo3{
     line-height: 1.2;
 }
 .col-md button {
-	display: block;
+        display: flex !important;
+	justify-content: center;
 	background: transparent;
 	border: 3px solid transparent;
 	position: relative;
-	bottom: 904px;
-	margin-top: 30px;
+	bottom: 850px;
+        margin: 0 auto;
 }
 .col-md > a > b{
 	position: relative;
-	bottom: 961px;
-	left: 86px;
+	bottom: 905px;
 	color:#ffffff !important;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
 }
 div .personalcard1, .personalcard2, .personalcard3, .personalcard4 {
 	display:block;
