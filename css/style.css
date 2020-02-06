@@ -70,7 +70,7 @@ a > div {
 }
 a {
    text-decoration: none !important;
-   outline-style: none;
+  
 }
 #carousel{
 	position:relative;
@@ -108,6 +108,7 @@ a {
 .directory1 > ul > li > a {
 	color: #ffffff;
 	font-family:Lato;
+	outline-style: none;
 }
 .directory1 > ul > li > a:hover{
 	background: #74c7d5;
@@ -186,6 +187,7 @@ main{
 .directory2 > div > ul > li > a {
 	color: #ffffff;
 	font-family:Lato;
+	outline-style: none;
 }
     .directory2{
 	position: relative;
@@ -342,6 +344,7 @@ footer > .Contact{
 .directory3 > div > ul > li > a {
 	color: #ffffff;
 	font-family: Lato;
+	outline-style: none;
 }
 div.logo3{
 	font-family: Damion-Regular;
@@ -492,6 +495,7 @@ position: relative;
 .directory4 > div > ul > li > a {
 	color: #ffffff;
 	font-family: Lato;
+	outline-style: none;
 }
 div.logo4{
 	font-family: Damion-Regular;
@@ -521,6 +525,7 @@ div.logo4{
 .directory5 > div > ul > li > a {
 	color: #ffffff;
 	font-family: Lato;
+	outline-style: none;
 }
 div.logo5{
 	font-family: Damion-Regular;
