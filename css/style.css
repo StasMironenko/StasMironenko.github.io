@@ -592,14 +592,14 @@ div.logo5{
 	position: relative;
 	left: 10px !important;
 	padding: 12px !important;
-	outline-style: none;
+	
 }
 .navbar-nav > a:hover{
 	background-color: #f5c149 !important;
 	transition: 0.9s;
 	border-radius: 4px 4px;
 	color: #5e5e5e !important;
-	outline-style: none;
+	
    }
    .navbar-toggler{
 	width: 60px;
