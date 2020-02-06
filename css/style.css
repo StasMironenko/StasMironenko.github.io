@@ -35,9 +35,6 @@ body {
 .col-md {
 padding-left:31px !important;
 }
-a{
-outline-style: none;
-}
 .directory1{
   position:relative;
   top:5px;
@@ -73,6 +70,7 @@ a > div {
 }
 a {
    text-decoration: none !important;
+   outline-style: none;
 }
 #carousel{
 	position:relative;
