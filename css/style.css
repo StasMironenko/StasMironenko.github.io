@@ -8,9 +8,7 @@ body {
   box-sizing:border-box;
   overflow-x:hidden !important;
 }
-a{
-outline-style: none;
-}
+
 .container-fluid{
   width:100%;
   height: 100% !important;
@@ -36,6 +34,9 @@ outline-style: none;
 }
 .col-md {
 padding-left:31px !important;
+}
+a{
+outline-style: none;
 }
 .directory1{
   position:relative;
