@@ -597,10 +597,14 @@ div.logo5{
 	
 }
 .navbar-nav > a:hover{
-	background-color: #f5c149 !important;
+	background-color: #f5c149;
+	-moz-background-color: #f5c149;
+	-ms-background-color: #f5c149;
 	transition: 0.9s;
 	border-radius: 4px 4px;
-	color: #5e5e5e !important;
+	color: #5e5e5e;
+	-moz-color: #5e5e5e;
+	-ms-color: #5e5e5e;
 	
    }
    .navbar-toggler{
