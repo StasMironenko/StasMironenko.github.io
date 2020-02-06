@@ -70,7 +70,6 @@ a > div {
 }
 a {
    text-decoration: none !important;
-   outline-style: none;
 }
 #carousel{
 	position:relative;
